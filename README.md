@@ -1,6 +1,6 @@
 # Module 12 Challenge
 
-To complete this challenge, we are provided with 2 starter jupyter notebook and one json file.          
+To complete this challenge, we are provided with 2 starter code jupyter notebook and one json file.          
 First we need to import the data provided in the **establishments.json** file from our terminal. We name the database **uk_food** and the collection **establishments**.         
 Use the following code to import the file :      
 **mongoimport --type json -d uk_food -c establishments --drop --jsonArray establishments.json**          
