@@ -17,7 +17,7 @@ We use the functions, **list_database_names(), list_collection_names(), find_one
 ## Part 2: Update the Database        
          
 Add new restaurant data to the database. Edit, delete, and update the database fields. Change the datatypes and print the results.
-Here, we use the functions, **insert_one(), find(), find_one(), update_one(), count_documents(), delete_many(), update_many()** to interact with the database.      
+Here, we use the functions, **insert_one(), find(), find_one(), update_one(), count_documents(), delete_many(), update_many()** to make changes and interact with the database.      
        
 ## Part 3: Exploratory Analysis          
            
